@@ -1,1 +1,1 @@
-# guimaker-template
+# guimaker-starter-project
